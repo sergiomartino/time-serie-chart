@@ -1,0 +1,3725 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chart It should render a chart line for 1 stock with open price type and within a date range 1`] = `
+<div
+  className="stock-chart"
+>
+  <div
+    className="ReactChart "
+    onClick={[Function]}
+    style={
+      Object {
+        "height": 0,
+        "position": "relative",
+        "width": 0,
+      }
+    }
+  >
+    <svg
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+      style={
+        Object {
+          "height": 0,
+          "overflow": "hidden",
+          "width": 0,
+        }
+      }
+    >
+      <g
+        style={
+          Object {
+            "transform": "translate3d(0px, 0px, 0)",
+          }
+        }
+      >
+        <rect
+          height={0}
+          style={
+            Object {
+              "fill": "#333",
+              "opacity": 0,
+              "rx": 0,
+              "ry": 0,
+              "strokeWidth": 0,
+            }
+          }
+          width={0}
+          x={-0}
+          y={-0}
+        />
+        <g
+          className="axes"
+        >
+          <g
+            className="Axis"
+            style={
+              Object {
+                "pointerEvents": "none",
+                "transform": "translate3d(0, 0px, 0)",
+              }
+            }
+          >
+            <path
+              className="domain"
+              d="
+        M 0, 6
+        V 0
+        H 0
+        V 6
+      "
+              style={
+                Object {
+                  "fill": "transparent",
+                  "opacity": 1,
+                  "stroke": "rgba(0,0,0, .1)",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <g
+              className="ticks"
+              style={Object {}}
+            >
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3086
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3088
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3090
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3092
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3094
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3096
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3098
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3100
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3102
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3104
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3106
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3108
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3110
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+            className="Axis"
+            style={
+              Object {
+                "pointerEvents": "none",
+                "transform": "translate3d(0px, 0, 0)",
+              }
+            }
+          >
+            <path
+              className="domain"
+              d="
+        M 6, 0
+        H 0
+        V 0
+        H 6
+      "
+              style={
+                Object {
+                  "fill": "transparent",
+                  "opacity": 1,
+                  "stroke": "rgba(0,0,0, .1)",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <g
+              className="ticks"
+              style={Object {}}
+            >
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    268.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    268.20
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    268.40
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    268.60
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    268.80
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    269.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    269.20
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    269.40
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    269.60
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    269.80
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    270.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    270.20
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    270.40
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    270.60
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    270.80
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    271.00
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+          className="Series"
+          style={
+            Object {
+              "pointerEvents": "none",
+            }
+          }
+        >
+          <g>
+            <path
+              d="M0,0Z"
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "none",
+                  "line": Object {},
+                  "opacity": 1,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": 2,
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#4ab5eb",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#4ab5eb",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#4ab5eb",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+    <div
+      className="tooltip-wrap"
+      style={
+        Object {
+          "height": "0px",
+          "left": "0px",
+          "opacity": 0,
+          "pointerEvents": "none",
+          "position": "absolute",
+          "top": "0px",
+          "transition": "all .3s ease",
+          "width": "0px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+            "transform": "translate3d(NaNpx, NaNpx, 0)",
+            "transition": "opacity .2s ease",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "padding": "12px 12px",
+              "transform": "translate3d(0%, -50%, 0)",
+              "transition": "all .2s ease",
+              "width": "auto",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "background": "rgba(0, 26, 39, 0.9)",
+                "borderRadius": "3px",
+                "color": "white",
+                "fontSize": "12px",
+                "padding": "5px",
+                "position": "relative",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "height": 0,
+                  "opacity": 0,
+                  "position": "absolute",
+                  "transition": "none",
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Chart It should render a chart line for each stocks with close price type and within a date range 1`] = `
+<div
+  className="stock-chart"
+>
+  <div
+    className="ReactChart "
+    onClick={[Function]}
+    style={
+      Object {
+        "height": 0,
+        "position": "relative",
+        "width": 0,
+      }
+    }
+  >
+    <svg
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+      style={
+        Object {
+          "height": 0,
+          "overflow": "hidden",
+          "width": 0,
+        }
+      }
+    >
+      <g
+        style={
+          Object {
+            "transform": "translate3d(0px, 0px, 0)",
+          }
+        }
+      >
+        <rect
+          height={0}
+          style={
+            Object {
+              "fill": "#333",
+              "opacity": 0,
+              "rx": 0,
+              "ry": 0,
+              "strokeWidth": 0,
+            }
+          }
+          width={0}
+          x={-0}
+          y={-0}
+        />
+        <g
+          className="axes"
+        >
+          <g
+            className="Axis"
+            style={
+              Object {
+                "pointerEvents": "none",
+                "transform": "translate3d(0, 0px, 0)",
+              }
+            }
+          >
+            <path
+              className="domain"
+              d="
+        M 0, 6
+        V 0
+        H 0
+        V 6
+      "
+              style={
+                Object {
+                  "fill": "transparent",
+                  "opacity": 1,
+                  "stroke": "rgba(0,0,0, .1)",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <g
+              className="ticks"
+              style={Object {}}
+            >
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3086
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3088
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3090
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3092
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3094
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3096
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3098
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3100
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3102
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3104
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3106
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3108
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0px, 0, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  y1={0}
+                  y2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={0}
+                    y1={0}
+                    y2={6}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="hanging"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(0px, 20px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="middle"
+                  >
+                    3110
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+            className="Axis"
+            style={
+              Object {
+                "pointerEvents": "none",
+                "transform": "translate3d(0px, 0, 0)",
+              }
+            }
+          >
+            <path
+              className="domain"
+              d="
+        M 6, 0
+        H 0
+        V 0
+        H 6
+      "
+              style={
+                Object {
+                  "fill": "transparent",
+                  "opacity": 1,
+                  "stroke": "rgba(0,0,0, .1)",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <g
+              className="ticks"
+              style={Object {}}
+            >
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    250.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    252.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    254.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    256.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    258.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    260.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    262.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    264.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    266.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    268.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    270.00
+                  </text>
+                </g>
+              </g>
+              <g
+                className="tick"
+                style={
+                  Object {
+                    "transform": "translate3d(0, 0px, 0)",
+                  }
+                }
+              >
+                <line
+                  className="gridLine"
+                  style={
+                    Object {
+                      "fill": "transparent",
+                      "opacity": 1,
+                      "stroke": "rgba(0,0,0, .1)",
+                      "strokeWidth": "1",
+                    }
+                  }
+                  x1={0}
+                  x2={-0}
+                />
+                <g
+                  className="labelGroup"
+                >
+                  <line
+                    className="tickline"
+                    style={
+                      Object {
+                        "fill": "transparent",
+                        "opacity": 1,
+                        "stroke": "rgba(0,0,0, .1)",
+                        "strokeWidth": "1",
+                      }
+                    }
+                    x1={0}
+                    x2={6}
+                    y1={0}
+                    y2={0}
+                  />
+                  <text
+                    className="tickLabel"
+                    dominantBaseline="central"
+                    style={
+                      Object {
+                        "fill": "black",
+                        "fontFamily": "sans-serif",
+                        "fontSize": 10,
+                        "opacity": 1,
+                        "transform": "translate3d(20px, 0px, 0) rotate(0deg)",
+                      }
+                    }
+                    textAnchor="start"
+                  >
+                    272.00
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+          className="Series"
+          style={
+            Object {
+              "pointerEvents": "none",
+            }
+          }
+        >
+          <g>
+            <path
+              d="M0,0Z"
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "none",
+                  "line": Object {},
+                  "opacity": 1,
+                  "rectangle": Object {},
+                  "stroke": "#fc6868",
+                  "strokeWidth": 2,
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#fc6868",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#fc6868",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#fc6868",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#fc6868",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#fc6868",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#fc6868",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+          </g>
+          <g>
+            <path
+              d="M0,0Z"
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "none",
+                  "line": Object {},
+                  "opacity": 1,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": 2,
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#4ab5eb",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#4ab5eb",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+            <circle
+              cx={0}
+              cy={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              r={1}
+              style={
+                Object {
+                  "area": Object {},
+                  "circle": Object {},
+                  "color": undefined,
+                  "fill": "#4ab5eb",
+                  "line": Object {},
+                  "opacity": 1,
+                  "r": 2,
+                  "rectangle": Object {},
+                  "stroke": "#4ab5eb",
+                  "strokeWidth": "1",
+                }
+              }
+            />
+          </g>
+        </g>
+      </g>
+    </svg>
+    <div
+      className="tooltip-wrap"
+      style={
+        Object {
+          "height": "0px",
+          "left": "0px",
+          "opacity": 0,
+          "pointerEvents": "none",
+          "position": "absolute",
+          "top": "0px",
+          "transition": "all .3s ease",
+          "width": "0px",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+            "transform": "translate3d(NaNpx, NaNpx, 0)",
+            "transition": "opacity .2s ease",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "padding": "12px 12px",
+              "transform": "translate3d(0%, -50%, 0)",
+              "transition": "all .2s ease",
+              "width": "auto",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "background": "rgba(0, 26, 39, 0.9)",
+                "borderRadius": "3px",
+                "color": "white",
+                "fontSize": "12px",
+                "padding": "5px",
+                "position": "relative",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "height": 0,
+                  "opacity": 0,
+                  "position": "absolute",
+                  "transition": "none",
+                  "width": 0,
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Chart When priced stocks are not available, it should render an error 1`] = `
+<p
+  className="pricing-error"
+>
+  Something has gone wrong: 
+  <strong>
+    Error!
+  </strong>
+</p>
+`;

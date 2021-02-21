@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+main {
+    width: 80%;
+    max-width: 1024px;
+    margin: 10px auto 0;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+fieldset {
+    border: 0;
+}
+
+input[type="date"] {
+    height: 36px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    padding: 0 5px;
+}
+
+.toolbar-data-selector {
+    width: 35%;
+}
+
+.toolbar-data-selector.price-types {
+    width: 20%;
+}
+
+.toolbar-data-selector.date-range .data-selector {
+    display: flex;
+    justify-content: space-between;
+}
+
+.toolbar-data-selector.date-range .date-picker {
+    width: 45%;
+}
+
+.data-selector {
+    margin-top: 5px;
+}
+
+.stock-chart {
+    margin-top: 20px;
+    height: 500px;
+}
